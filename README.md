@@ -8,7 +8,7 @@ Our clothing dataset contains a total of 15 classes (Background, Desk, Hat, Scar
 
 ## Download Links
 
-BaiDu Cloud: [https://github.com/JLU-AI-RVLab/Clothing-Dataset](https://github.com/JLU-AI-RVLab/Clothing-Dataset) Password: <br>
+BaiDu Cloud: [https://pan.baidu.com/s/13CkW5aSp0H_DFFwoAecxMw](https://pan.baidu.com/s/13CkW5aSp0H_DFFwoAecxMw) Password: 1821 <br>
 
 Google Drive: [https://github.com/JLU-AI-RVLab/Clothing-Dataset](https://github.com/JLU-AI-RVLab/Clothing-Dataset)
 
