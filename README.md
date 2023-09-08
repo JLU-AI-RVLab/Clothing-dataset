@@ -41,3 +41,10 @@ val_id.txt
 ### misAligned
 
 ### train_id and val_id
+
+We have divided the training set and validation set of the dataset and provided the corresponding id numbers in these two files.
+
+| :---------------: | :-----: |
+|       Train       |   258   |
+|        Val        |   107   |
+| :---------------: | :-----: |
