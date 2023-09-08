@@ -34,7 +34,7 @@ train_id.txt
 val_id.txt
 ```
 
-### Aligned_rgb and Aligned_depth
+### Aligned_rgb, Aligned_depth and Label
 
 ### Color_matched
 
