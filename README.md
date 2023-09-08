@@ -50,8 +50,8 @@ val_id.txt
 
 We have divided the training set and validation set of the dataset and provided the corresponding id numbers in these two files.
 
+|        Set        |  Scale  |
 | :---------------: | :-----: |
 |       Train       |   258   |
 |        Val        |   107   |
-| :---------------: | :-----: |
 
