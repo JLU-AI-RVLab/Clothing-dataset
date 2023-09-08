@@ -33,3 +33,11 @@ Clothing_Dataset
 train_id.txt
 val_id.txt
 ```
+
+### Aligned_rgb and Aligned_depth
+
+### Color_matched
+
+### misAligned
+
+### train_id and val_id
