@@ -34,17 +34,24 @@ train_id.txt
 val_id.txt
 ```
 
-### Aligned_rgb, Aligned_depth and Label
+### Aligned_rgb and Aligned_depth
+
+![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image2.png) ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image3.png)
 
 ### Color_matched
 
+![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image4.png)
+
 ### misAligned
+
+![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image5.png) ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image6.png)
 
 ### train_id and val_id
 
 We have divided the training set and validation set of the dataset and provided the corresponding id numbers in these two files.
 
-|        Set        |  Scale  |
 | :---------------: | :-----: |
 |       Train       |   258   |
 |        Val        |   107   |
+| :---------------: | :-----: |
+
