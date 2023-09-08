@@ -47,21 +47,21 @@ We provide the labels in colored RGB form in this folder for easy visualization.
 
 | Class_id | Class_name  |     RGB     |
 | :------: | :---------: | :---------: |
-| 0        | background  | 130,130,130 |
-| 1        | desk        | 220,220,220 |
-| 2        | hat         | 184,134, 11 |
-| 3        | scarf       | 105,105,105 |
+| 0        | Background  | 130,130,130 |
+| 1        | Desk        | 220,220,220 |
+| 2        | Hat         | 184,134, 11 |
+| 3        | Scarf       | 105,105,105 |
 | 4        | T-shirt     | 118,238,198 |
-| 5        | shirt       | 152,245,255 |
-| 6        | sweater     | 255,248,220 |
-| 7        | shorts      | 154,205, 50 |
-| 8        | jeans       |  70,130,180 |
-| 9        | towel       | 238,213,210 |
-| 10       | bathrobe    | 105,139,105 |
-| 11       | container-A | 142,229,238 |
-| 12       | container-B | 205,201,165 |
-| 13       | container-C | 245,245,220 |
-| 14       | container-D | 238,221,130 |
+| 5        | Shirt       | 152,245,255 |
+| 6        | Sweater     | 255,248,220 |
+| 7        | Shorts      | 154,205, 50 |
+| 8        | Jeans       |  70,130,180 |
+| 9        | Towel       | 238,213,210 |
+| 10       | Bathrobe    | 105,139,105 |
+| 11       | Target-A    | 142,229,238 |
+| 12       | Target-B    | 205,201,165 |
+| 13       | Target-C    | 245,245,220 |
+| 14       | Target-D    | 238,221,130 |
 
 ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image4.png)
 
