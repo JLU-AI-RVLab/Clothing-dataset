@@ -47,4 +47,3 @@ We have divided the training set and validation set of the dataset and provided 
 | :---------------: | :-----: |
 |       Train       |   258   |
 |        Val        |   107   |
-| :---------------: | :-----: |
