@@ -34,7 +34,7 @@ train_id.txt
 val_id.txt
 ```
 
-### Aligned_rgb and Aligned_depth
+### Aligned_rgb, Aligned_depth and Label
 
 ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image2.png) ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image3.png)
 
