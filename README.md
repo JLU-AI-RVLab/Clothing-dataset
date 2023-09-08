@@ -37,11 +37,13 @@ val_id.txt
 
 ### Aligned_rgb, Aligned_depth and Label
 
+We used the Kinect camera and the corresponding SDK to obtain the aligned RGB images and depth images, and did a cropping process (final size is 512×256) to preserve the most useful area. We use LabelMe to annotate RGB images at the pixel level to obtain labels for semantic segmentation tasks.
+
 ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image2.png) ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image3.png)
 
 ### Color_matched
 
-The RGB value of the label visualization and the corresponding category relationship are as follows:
+We provide the labels in colored RGB form in this folder for easy visualization. The RGB value of the label visualization and the corresponding category relationship are as follows:
 
 | Class_id | Class_name  |     RGB     |
 | :------: | :---------: | :---------: |
@@ -64,6 +66,8 @@ The RGB value of the label visualization and the corresponding category relation
 ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image4.png)
 
 ### misAligned
+
+We also provide the original images without alignment and cropping in this folder, they have relatively better quality and can be used to extend to other tasks. The size of the RGB image is 640×360, and the size of the depth image is 512×424.
 
 ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image5.png) ![block images](https://github.com/JLU-AI-RVLab/Clothing-dataset/blob/main/Images/image6.png)
 
